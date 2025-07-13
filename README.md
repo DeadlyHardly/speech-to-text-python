@@ -23,4 +23,4 @@ This project converts speech audio files (WAV or MP3) into text using Python and
 > Hello, this is a test file for speech-to-text conversion.
 
 ## ✍️ Author
-Made by [Your Name]
+Made by [Shubham Verma]
